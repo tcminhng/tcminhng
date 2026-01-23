@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Nguyen</h1>
 <h3 align="center">A passionate backend developer and gymer</h3>
 
-- 🌱 I’m currently learning **Computer Engineering Tech**
+- 🌱 I’m currently learning **Computer Sience (Software Engineer)**
 
 - 📫 How to reach me **tcminh.ng20@gmail.com**
 
