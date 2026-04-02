@@ -3,9 +3,10 @@
 
 - 🌱 I’m currently learning **Computer Sience (Software Engineer)**
 
-- 📫 How to reach me **tcminh.ng20@gmail.com**
+- 📫 Connect with me: [tcminh.ng20@gmail.com](mailto:tcminh.ng20@gmail.com) | [LinkedIn](https://www.linkedin.com/in/minhtcnguyen)
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
